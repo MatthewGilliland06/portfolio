@@ -3,4 +3,12 @@ body{
     background: rgb(37, 37, 39);
     text-align: center;
     color: rgb(199, 195, 195);
+    #triangle-up {
+        width: 0;
+        height: 0;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-bottom: 100px solid red;
+      }
+    
 }
