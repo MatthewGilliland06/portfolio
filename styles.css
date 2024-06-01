@@ -3,7 +3,7 @@ body{
     background: rgb(37, 37, 39);
     text-align: center;
     color: rgb(199, 195, 195);
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
 li a{
@@ -13,7 +13,8 @@ li a{
   text-decoration: none;
 }
 ul{
-  
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
   list-style-type: none;
   margin: 0;
   padding: 0; 
